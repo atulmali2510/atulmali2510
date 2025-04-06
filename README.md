@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Atul Sonawane! 👋
 
-<!--
-**atulmali2510/atulmali2510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst**  
+💡 Passionate about transforming data into actionable insights  
+📊 Skilled in **Power BI**, **Excel**, **SQL**, **Python**
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Hospital Disease Analysis Dashboard**  
+  *Tools:* Power BI, Excel  
+  [Repository Link](#)
+
+- **Social Media Analytics Dashboard**  
+  *Tools:* Power BI, Excel  
+  [Repository Link](#)
+
+## 📫 Contact Me
+
+- Email: atulmali2510@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/atul2510)
+- [GitHub](https://github.com/atulmali2510)
