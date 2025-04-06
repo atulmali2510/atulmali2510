@@ -9,11 +9,7 @@
 - **Hospital Disease Analysis Dashboard**  
   *Tools:* Power BI, Excel  
   [Repository Link](#)
-
-- **Social Media Analytics Dashboard**  
-  *Tools:* Power BI, Excel  
-  [Repository Link](#)
-
+  
 ## 📫 Contact Me
 
 - Email: atulmali2510@gmail.com
