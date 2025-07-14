@@ -1,17 +1,10 @@
-# Hi there, I'm Atul Sonawane! 👋
-
-🎯 **Aspiring Data Analyst**  
-💡 Passionate about transforming data into actionable insights  
-📊 Skilled in **Power BI**, **Excel**, **SQL**, **Python**
-
-## 🚀 Projects
+🚀 Projects
 
 - **Hospital Disease Analysis Dashboard**  
   *Tools:* Power BI, Excel  
-  [Repository Link](#)
-  
-## 📫 Contact Me
+  [Repository Link](https://github.com/atulmali2510/Hospital-Disease-Analysis-Dashboard)
 
-- Email: atulmali2510@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/atul2510)
-- [GitHub](https://github.com/atulmali2510)
+- **Hypothesis Testing & Product Performance Analysis**  
+  *Tools:* Python, Pandas, Seaborn, Matplotlib, SciPy  
+  *Summary:* Performed EDA and hypothesis testing on retail sales data to identify profitable product categories and sales patterns.  
+  [Repository Link](https://github.com/atulmali2510/Hypothesis-Testing-Analysis)
