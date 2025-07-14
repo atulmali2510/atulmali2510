@@ -2,7 +2,8 @@
 
 - **Hospital Disease Analysis Dashboard**  
   *Tools:* Power BI, Excel  
-  [Repository Link](https://github.com/atulmali2510/Hospital-Disease-Analysis-Dashboard)
+  *Summary:* Created a dashboard to analyze patient data across age groups and diseases.  
+  [Repository Link](https://github.com/atulmali2510/hospital-disease-dashboard)
 
 - **Hypothesis Testing & Product Performance Analysis**  
   *Tools:* Python, Pandas, Seaborn, Matplotlib, SciPy  
